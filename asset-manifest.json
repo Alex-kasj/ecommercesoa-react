@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ecommercesoa-react-cliente/static/css/main.38228fb1.chunk.css",
+    "main.js": "/ecommercesoa-react-cliente/static/js/main.d0f6bddb.chunk.js",
+    "main.js.map": "/ecommercesoa-react-cliente/static/js/main.d0f6bddb.chunk.js.map",
+    "runtime~main.js": "/ecommercesoa-react-cliente/static/js/runtime~main.39b480ff.js",
+    "runtime~main.js.map": "/ecommercesoa-react-cliente/static/js/runtime~main.39b480ff.js.map",
+    "static/css/2.98036eff.chunk.css": "/ecommercesoa-react-cliente/static/css/2.98036eff.chunk.css",
+    "static/js/2.8d2ec024.chunk.js": "/ecommercesoa-react-cliente/static/js/2.8d2ec024.chunk.js",
+    "static/js/2.8d2ec024.chunk.js.map": "/ecommercesoa-react-cliente/static/js/2.8d2ec024.chunk.js.map",
+    "static/js/3.8b257cf5.chunk.js": "/ecommercesoa-react-cliente/static/js/3.8b257cf5.chunk.js",
+    "static/js/3.8b257cf5.chunk.js.map": "/ecommercesoa-react-cliente/static/js/3.8b257cf5.chunk.js.map",
+    "index.html": "/ecommercesoa-react-cliente/index.html",
+    "precache-manifest.b93ad6c9085b4edfd019827ec11e57a7.js": "/ecommercesoa-react-cliente/precache-manifest.b93ad6c9085b4edfd019827ec11e57a7.js",
+    "service-worker.js": "/ecommercesoa-react-cliente/service-worker.js",
+    "static/css/2.98036eff.chunk.css.map": "/ecommercesoa-react-cliente/static/css/2.98036eff.chunk.css.map",
+    "static/css/main.38228fb1.chunk.css.map": "/ecommercesoa-react-cliente/static/css/main.38228fb1.chunk.css.map"
+  }
+}
