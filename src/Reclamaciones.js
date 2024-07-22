@@ -8,7 +8,7 @@ import { faEdit, faTrashAlt } from '@fortawesome/free-solid-svg-icons';
 import { Modal, ModalBody, ModalFooter, ModalHeader } from 'reactstrap';
 import { Link } from 'react-router-dom';
 
-const url = "http://127.0.0.1:8000/api/reclamos";
+const url = "https://gregarious-victory-production.up.railway.app/api/reclamos";
 
 class Reclamaciones extends Component {
 

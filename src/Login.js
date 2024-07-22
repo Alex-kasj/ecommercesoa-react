@@ -5,8 +5,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Modal, ModalBody, ModalFooter, ModalHeader } from 'reactstrap';
 import App from './App';
 
-const loginUrl = "http://127.0.0.1:8000/api/login";
-const registerUrl = "http://127.0.0.1:8000/api/register";
+const loginUrl = "https://gregarious-victory-production.up.railway.app/api/login";
+const registerUrl = "https://gregarious-victory-production.up.railway.app/api/register";
 
 class Login extends Component {
   state = {

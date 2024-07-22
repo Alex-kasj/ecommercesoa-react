@@ -10,7 +10,7 @@ import { Modal, ModalBody, ModalFooter, ModalHeader } from 'reactstrap';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import Reclamaciones from './Reclamaciones';
 
-const url = "http://127.0.0.1:8000/api/productos";
+const url = "https://gregarious-victory-production.up.railway.app/api/productos";
 
 class App extends Component {
   state = {
